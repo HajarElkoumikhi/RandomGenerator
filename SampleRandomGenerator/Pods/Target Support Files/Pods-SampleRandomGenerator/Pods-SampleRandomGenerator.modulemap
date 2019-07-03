@@ -1,0 +1,6 @@
+framework module Pods_SampleRandomGenerator {
+  umbrella header "Pods-SampleRandomGenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}

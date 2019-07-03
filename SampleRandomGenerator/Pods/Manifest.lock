@@ -1,0 +1,16 @@
+PODS:
+  - RandomGenerator (1.0.0)
+
+DEPENDENCIES:
+  - RandomGenerator (from `../RandomGenerator`)
+
+EXTERNAL SOURCES:
+  RandomGenerator:
+    :path: "../RandomGenerator"
+
+SPEC CHECKSUMS:
+  RandomGenerator: 83c26b0652fc9edd8736643ddb4d59a29eca2d65
+
+PODFILE CHECKSUM: c8ce0adef58917aff315fa0ed2423371359f205c
+
+COCOAPODS: 1.7.1
